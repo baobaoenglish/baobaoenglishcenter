@@ -84,7 +84,7 @@ mailchimp_form_action = "hungbaft@gmail.com"
 mailchimp_form_name = "Đăng Ký Khóa Học"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/BAOBAOENGLISHCENTER/"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
