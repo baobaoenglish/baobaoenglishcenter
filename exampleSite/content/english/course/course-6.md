@@ -6,10 +6,10 @@ description: Khóa học dành cho "người mất gốc" vẫn đảm bảo đ�
 image: images/courses/course-6.jpg
 category: Toeic 500+ Cấp Tốc Sau 12 Buổi
 teacher: Zim Cook
-duration: 12 Buổi
+duration: 24 Buổi
 weekly: 1h30p
 fee: Liên Hệ
-apply_url: https://forms.gle/hbLXKxq9xS1f175SA
+apply_url: https://forms.gle/jqixebLWPDhXssGs9
 
 ---
 ### Về Khóa Học
