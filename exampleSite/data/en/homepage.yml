@@ -49,7 +49,7 @@ about:
     công của trung tâm.
   button:
     enable: true
-    label: Learn more
+    label: Tìm Hiểu Thêm
     link: about
 course:
   enable: true
