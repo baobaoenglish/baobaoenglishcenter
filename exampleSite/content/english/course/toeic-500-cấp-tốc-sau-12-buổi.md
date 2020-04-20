@@ -9,16 +9,22 @@ duration = "12 Buổi"
 fee = "Liên Hệ"
 image = "images/courses/course-1.jpg"
 teacher = ""
-title = "Toeic 500+ Cấp Tốc Sau 12 Buổi"
+title = "Toeic Online 500+ Cấp Tốc Sau 12 Buổi"
 weekly = "1h30p"
 
 +++
 ### Về Khóa Học
 
-➡️ Review đề và update mẹo cấp tốc làm bài từng tháng theo format mới.  
-➡️ Tiểu xảo đánh nhanh rút gọn listening part 1,2 mà ko cần nghe hết bài  
-➡️ Thủ thuật kinh điển chọn đáp án thần tốc trong part 3,4  
-➡️ Mẹo làm bài ko cần hỉu nghĩa Part 5, 6  
+➡️ Học trực tuyến Video Call với giáo viên.
+
+➡️ Review đề và update mẹo cấp tốc làm bài từng tháng theo format mới.
+
+➡️ Tiểu xảo đánh nhanh rút gọn listening part 1,2 mà ko cần nghe hết bài
+
+➡️ Thủ thuật kinh điển chọn đáp án thần tốc trong part 3,4
+
+➡️ Mẹo làm bài ko cần hỉu nghĩa Part 5, 6
+
 ➡️ Phương pháp loại suy siêu tốc trong part 7</p>
 
 ### Yêu Cầu
