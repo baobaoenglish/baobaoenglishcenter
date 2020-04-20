@@ -14,7 +14,7 @@ weekly = "1h30p"
 +++
 ### Về Khóa Học
 
-➡️ Học trực tuyến Video Call với giáo viên.
+➡️ Học trực tuyến Video Call với giáo viên. Cam kết chất lượng như học Offline
 
 ➡️ Review đề và update mẹo cấp tốc làm bài từng tháng theo format mới.
 
