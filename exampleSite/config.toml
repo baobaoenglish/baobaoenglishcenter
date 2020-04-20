@@ -40,7 +40,7 @@ weight = 5
 [params]
 address = "Hồ Chí Minh"
 author = "Themefisher"
-contact_form_action = "hungbaft@gmail.com"
+contact_form_action = "https://formspree.io/xjveqlpq"
 description = "This is meta description"
 email = "dotruongbao@gmail.com"
 google_analitycs_id = ""
