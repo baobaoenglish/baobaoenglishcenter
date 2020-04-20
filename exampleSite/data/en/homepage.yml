@@ -18,7 +18,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Liên Hệ
       link: contact
 banner_feature:
   enable: true
