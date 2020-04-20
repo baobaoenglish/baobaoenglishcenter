@@ -40,9 +40,9 @@ weight = 5
 [params]
 address = "Hồ Chí Minh"
 author = "Themefisher"
-contact_form_action = "https://forms.gle/WSo1xzp8n3q3ohUs9"
+contact_form_action = "hungbaft@gmail.com"
 description = "This is meta description"
-email = "dotruongbao@gmail.com"
+email = "hungbaft@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+84 868577093"
