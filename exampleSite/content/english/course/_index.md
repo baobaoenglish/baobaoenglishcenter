@@ -1,8 +1,8 @@
 ---
-title: "Our Courses"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: Khóa Học
+bg_image: images/backgrounds/page-title.jpg
+description: Trung tâm hiện tại đang có 2 mảng dịch vụ giáo dục về tiếng anh học thuật
+  Toeic và mảng tiếng anh học thuật IELTS cho bộ phận học sinh, sinh viên, người đi
+  làm có nhu cầu học tiếng anh.
+
 ---
