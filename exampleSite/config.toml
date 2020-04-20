@@ -40,7 +40,7 @@ name = "Về Chúng Tôi"
 weight = 1
 [[menu.main]]
 URL = "course"
-name = "course"
+name = "Khóa Học"
 weight = 2
 [[menu.main]]
 hasChildren = true
