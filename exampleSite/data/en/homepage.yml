@@ -20,10 +20,9 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Giao Tiếp Cấp Tốc Sau 20 Buổi
+    content: Khóa giao tiếp cấp tốc như người bản xứ sau 20 buổi. Lớp học năng động,
+      học trực tiếp với giáo viên nước ngoài. Cam kết đầu ra.
     animation_in: left
     animation_out: right
     button:
