@@ -5,7 +5,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: Khóa học dành cho "người mất gốc" vẫn đảm bảo đầu ra Ielts 5.0+
 image: images/courses/course-6.jpg
 category: Toeic 500+ Cấp Tốc Sau 12 Buổi
-teacher: John Doe
+teacher: Zim Cook
 duration: 12 Buổi
 weekly: 1h30p
 fee: Liên Hệ
