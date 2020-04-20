@@ -31,10 +31,9 @@ banner_feature:
     icon: ti-blackboard
     content: Áp dụng tiểu xảo đánh nhanh rút gọn giải quyết phần thi Listening trong
       TOEIC và IELTS
-  - name: Our Achievements
+  - name: Thủ Thuật Kinh Điển
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Chọn nhanh đáp án trong phần thi Reading áp dụng cho cả Toeic và Ielts
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
