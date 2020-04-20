@@ -20,15 +20,6 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Giao Tiếp Cấp Tốc Sau 20 Buổi
-    content: Khóa giao tiếp cấp tốc như người bản xứ sau 20 buổi. Lớp học năng động,
-      học trực tiếp với giáo viên nước ngoài. Cam kết đầu ra.
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
