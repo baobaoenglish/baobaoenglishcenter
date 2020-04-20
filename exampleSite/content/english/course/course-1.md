@@ -1,30 +1,18 @@
 ---
-title: "Photography"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-1.jpg"
-# taxonomy
-category: "Photography"
-# teacher
-teacher: "Clark Malik"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
-# type
-type: "course"
+title: Toeic 500+ Cấp Tốc Sau 12 Buổi
+date: 2019-07-06T09:27:17.000+00:00
+bg_image: images/backgrounds/page-title.jpg
+description: Khóa Toeic cấp tốc 12 buổi làm nên thương hiệu của BaoBao. Cam kết 500+
+  sau 12 buổi bằng văn bản. Học lại miễn phí 100% nếu không đạt mục tiêu
+image: images/courses/course-1.jpg
+category: Photography
+teacher: Clark Malik
+duration: 06 Month
+weekly: 03 hours
+fee: 'From: $699'
+apply_url: "#"
+
 ---
-
-
 ### About Course
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
