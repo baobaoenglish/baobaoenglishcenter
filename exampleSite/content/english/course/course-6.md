@@ -6,12 +6,12 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: images/courses/course-6.jpg
-category: Photography
-teacher: Duis Rio
-duration: 06 Month
-weekly: 03 hours
-fee: 'From: $699'
-apply_url: "#"
+category: Toeic 500+ Cấp Tốc Sau 12 Buổi
+teacher: Mr. Bao
+duration: 12 Buổi
+weekly: 1h30p
+fee: Liên Hệ
+apply_url: https://forms.gle/hbLXKxq9xS1f175SA
 
 ---
 ### About Course
