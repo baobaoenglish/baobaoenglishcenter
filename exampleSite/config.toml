@@ -19,21 +19,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
+[menu]
+footer = []
 [[menu.main]]
 URL = "about"
 name = "Về Chúng Tôi"
@@ -42,30 +29,6 @@ weight = 1
 URL = "course"
 name = "Khóa Học"
 weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
 [[menu.main]]
 URL = "blog"
 name = "blog"
