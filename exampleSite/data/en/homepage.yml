@@ -34,10 +34,9 @@ banner_feature:
   - name: Thủ Thuật Kinh Điển
     icon: ti-agenda
     content: Chọn nhanh đáp án trong phần thi Reading áp dụng cho cả Toeic và Ielts
-  - name: Admission Now
+  - name: Học Lại Miễn Phí
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Cam kết đầu ra. Học lại miễn phí 100% nếu không đạt mục tiêu ban đầu
 about:
   enable: true
   title: Về Chúng Tôi
