@@ -2,9 +2,7 @@
 title: IELTS 5.0+ Cấp Tốc Sau 12 Buổi
 date: 2019-07-06T09:27:17+00:00
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Khóa học dành cho "người mất gốc" vẫn đảm bảo đầu ra Ielts 5.0+
 image: images/courses/course-6.jpg
 category: Toeic 500+ Cấp Tốc Sau 12 Buổi
 teacher: Mr. Bao
