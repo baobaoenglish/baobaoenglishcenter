@@ -74,5 +74,5 @@ funfacts:
   enable: false
   funfact_item: []
 blog:
-  enable: true
+  enable: false
   title: Latest News
