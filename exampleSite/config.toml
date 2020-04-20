@@ -4,7 +4,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "BaoBao | Tiếng Anh Cấp Tốc"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -19,31 +19,70 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Liên Hệ"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "course"
-name = "Khóa Học"
-weight = 2
+[[menu.footer]]
+URL = "teacher"
+name = "teacher"
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+[[menu.footer]]
+URL = "event"
+name = "event"
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+[[menu.footer]]
+URL = "research"
+name = "research"
 [[menu.main]]
 URL = "about"
-name = "Về Chúng Tôi"
+name = "About"
 weight = 1
+[[menu.main]]
+URL = "course"
+name = "course"
+weight = 2
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
+[[menu.main]]
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Pages"
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@educenter.com"
+email = "dotruongbao@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+84 868577093"
 top_header = true
 [params.map]
 enable = true
@@ -82,7 +121,7 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "#https://www.facebook.com/BAOBAOENGLISHCENTER/"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
