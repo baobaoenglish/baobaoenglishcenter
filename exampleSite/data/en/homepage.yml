@@ -75,15 +75,7 @@ event:
   title: Upcoming Events
 funfacts:
   enable: true
-  funfact_item:
-  - name: TEACHERS
-    count: "60"
-  - name: COURSES
-    count: "50"
-  - name: STUDENTS
-    count: "1000"
-  - name: SATISFIED CLIENT
-    count: "1400"
+  funfact_item: []
 blog:
   enable: true
   title: Latest News
