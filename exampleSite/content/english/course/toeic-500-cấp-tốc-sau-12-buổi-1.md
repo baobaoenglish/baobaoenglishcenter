@@ -1,15 +1,14 @@
 +++
 apply_url = "https://forms.gle/W5GfphxERXj4epdH8"
-bg_image = "images/backgrounds/page-title.jpg"
+bg_image = "/images/blog/post-1.jpg"
 category = "Toeic 500+ Cấp Tốc Sau 12 Buổi"
 date = 2019-07-06T09:27:17Z
 description = "Khóa Toeic cấp tốc 12 buổi làm nên thương hiệu của BaoBao. Cam kết 500+ sau 12 buổi bằng văn bản. Học lại miễn phí 100% nếu không đạt mục tiêu"
-draft = true
 duration = "12 Buổi"
 fee = "Liên Hệ"
-image = "images/courses/course-1.jpg"
+image = "/images/courses/course-5.jpg"
 teacher = ""
-title = "Toeic 500+ Cấp Tốc Sau 12 Buổi"
+title = "Toeic 500+ Cấp Tốc Sau 5 Ngày"
 weekly = "1h30p"
 
 +++
