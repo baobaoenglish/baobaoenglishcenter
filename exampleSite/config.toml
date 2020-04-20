@@ -50,8 +50,8 @@ top_header = true
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAeKyUZNDhhnQ_ibkq8bDIURJ1g1B8j5o8"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "10.769815"
+map_longitude = "106.702513"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
