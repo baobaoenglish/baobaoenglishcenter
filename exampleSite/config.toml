@@ -19,62 +19,13 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "research"
-name = "research"
-weight = 1
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-weight = 2
-[[menu.footer]]
-URL = "event"
-name = "event"
-weight = 3
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-weight = 4
-[[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Tìm Hiểu Thêm"
-weight = 1
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Tìm Hiểu Thêm"
-weight = 2
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Tìm Hiểu Thêm"
-weight = 3
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Tìm Hiểu Thêm"
-weight = 4
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Tìm Hiểu Thêm"
-weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Liên Hệ"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Tìm Hiểu Thêm"
 weight = 3
 [[menu.main]]
 URL = "course"
