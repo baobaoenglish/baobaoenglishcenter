@@ -11,10 +11,9 @@ slider:
       enable: true
       label: Liên Hệ
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Toeic 500+ Cấp Tốc Sau 12 Buổi
+    content: Khóa Toeic cấp tốc 12 buổi làm nên thương hiệu của BaoBao. Cam kết 500+
+      sau 12 buổi bằng văn bảng. Học lại miễn phí 100% nếu không đạt mục tiêu
     animation_in: left
     animation_out: right
     button:
