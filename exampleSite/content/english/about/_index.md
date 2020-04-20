@@ -2,9 +2,9 @@
 title: Về Chúng Tôi
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: BaoBao English Center ra đời với sứ mệnh là một trung tâm IELTS - TOEIC
+  - Tiếng Anh Giao Tiếp. Lấy kết quả của học viên làm tiêu chí hàng đầu cho thành
+  công của trung tâm.
 
 ---
 ## ABOUT OUR JOURNY
