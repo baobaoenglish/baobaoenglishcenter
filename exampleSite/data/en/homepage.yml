@@ -19,7 +19,7 @@ slider:
     button:
       enable: true
       label: Liên Hệ
-      link: contact
+      link: https://forms.gle/rHrJ8LHb28Amvh3E7
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
