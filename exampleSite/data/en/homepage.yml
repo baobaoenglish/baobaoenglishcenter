@@ -3,15 +3,13 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: IELTS 5.0+ Cấp Tốc Sau 24 Buổi
+    content: Khóa học dành cho "người mất gốc" vẫn đảm bảo đầu ra IELTS 5.0+
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Liên Hệ
       link: contact
   - title: Your bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
