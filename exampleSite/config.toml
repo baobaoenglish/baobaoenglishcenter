@@ -77,7 +77,7 @@ weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "#https://bit.ly/39jDQBk"
 description = "This is meta description"
 email = "dotruongbao@gmail.com"
 google_analitycs_id = ""
