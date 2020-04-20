@@ -72,7 +72,7 @@ name = "blog"
 weight = 4
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Liên Hệ"
 weight = 5
 [params]
 address = "Hồ Chí Minh"
