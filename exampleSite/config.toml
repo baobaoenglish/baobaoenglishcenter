@@ -1,4 +1,4 @@
-baseURL = "https://baobaoenglishcenter.netlify.app"
+baseURL = "https://baobaoenglish.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
