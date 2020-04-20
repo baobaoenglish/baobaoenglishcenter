@@ -24,10 +24,9 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Scholorship News
+  - name: Update Liên Tục
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: " REVIEW đề thi và update MẸO cấp tốc làm bài theo format mới"
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
