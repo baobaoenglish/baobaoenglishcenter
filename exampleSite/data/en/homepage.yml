@@ -78,11 +78,10 @@ cta:
 success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
-  title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  title: Tiếng Anh Cấp Tốc
+  content: Trung tâm hiện tại đang có 3 mảng dịch vụ giáo dục về tiếng Anh giao tiếp,
+    tiếng anh học thuật Toeic và mảng tiếng anh học thuật IELTS cho bộ phận học sinh,
+    sinh viên, người đi làm có nhu cầu học tiếng anh.
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
   enable: true
