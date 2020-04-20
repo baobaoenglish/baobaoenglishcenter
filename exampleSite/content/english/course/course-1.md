@@ -6,11 +6,11 @@ description: Khóa Toeic cấp tốc 12 buổi làm nên thương hiệu của B
   sau 12 buổi bằng văn bản. Học lại miễn phí 100% nếu không đạt mục tiêu
 image: images/courses/course-1.jpg
 category: Photography
-teacher: Clark Malik
-duration: 06 Month
-weekly: 03 hours
-fee: 'From: $699'
-apply_url: "#"
+teacher: ''
+duration: 12 Buổi
+weekly: 1h30p
+fee: Liên Hệ
+apply_url: https://forms.gle/W5GfphxERXj4epdH8
 
 ---
 ### Về Khóa Học
