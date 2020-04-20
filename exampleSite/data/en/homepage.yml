@@ -27,10 +27,10 @@ banner_feature:
   - name: Update Liên Tục
     icon: ti-book
     content: " REVIEW đề thi và update MẸO cấp tốc làm bài theo format mới"
-  - name: Our Notice Board
+  - name: Đánh Nhanh Rút Gọn
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Áp dụng tiểu xảo đánh nhanh rút gọn giải quyết phần thi Listening trong
+      TOEIC và IELTS
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
