@@ -11,10 +11,10 @@
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
         <form action="{{ .Site.Params.contact_form_action | safeURL }}" method="POST">
-          <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
-          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email">
-          <input type="text" class="form-control mb-3" id="phone" name="phone number" placeholder="Your Number">
-          <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea>
+          <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Họ và Tên">
+          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Email">
+          <input type="text" class="form-control mb-3" id="phone" name="phone number" placeholder="Số điện thoại ">
+          <textarea name="message" id="message" class="form-control mb-3" placeholder="Khóa Học + Số điểm mong muốn"></textarea>
           <button type="submit" value="send" class="btn btn-primary">{{ i18n "send" }}</button>
         </form>
       </div>
