@@ -68,7 +68,7 @@ success_story:
     đi làm có nhu cầu học tiếng anh.
   video_link: https://www.youtube.com/watch?v=EjSWqAWM7LA
 event:
-  enable: true
+  enable: false
   title: Upcoming Events
 funfacts:
   enable: true
