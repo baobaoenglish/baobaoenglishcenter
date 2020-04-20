@@ -41,15 +41,6 @@ sections:
   templates:
   - notice
 - type: heading
-  label: Teacher
-- type: directory
-  path: exampleSite/content/english/teacher
-  label: Teacher (en)
-  create: all
-  match: "**/*"
-  templates:
-  - teacher
-- type: heading
   label: Event
 - type: directory
   path: exampleSite/content/english/event
