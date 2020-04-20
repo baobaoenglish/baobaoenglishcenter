@@ -5,7 +5,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: Khóa Toeic cấp tốc 12 buổi làm nên thương hiệu của BaoBao. Cam kết 500+
   sau 12 buổi bằng văn bản. Học lại miễn phí 100% nếu không đạt mục tiêu
 image: images/courses/course-1.jpg
-category: Photography
+category: Toeic 500+ Cấp Tốc Sau 12 Buổi
 teacher: ''
 duration: 12 Buổi
 weekly: 1h30p
