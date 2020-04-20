@@ -79,7 +79,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = "images/preloader.gif"
 [params.subscription]
-enable = true
+enable = false
 mailchimp_form_action = "hungbaft@gmail.com"
 mailchimp_form_name = "Đăng Ký Khóa Học"
 [[params.social]]
