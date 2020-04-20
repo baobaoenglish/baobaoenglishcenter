@@ -77,7 +77,7 @@ weight = 5
 [params]
 address = "Hồ Chí Minh"
 author = "Themefisher"
-contact_form_action = "#https://bit.ly/39jDQBk"
+contact_form_action = "#"
 description = "This is meta description"
 email = "dotruongbao@gmail.com"
 google_analitycs_id = ""
