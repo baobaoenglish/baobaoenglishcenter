@@ -38,7 +38,7 @@ URL = "contact"
 name = "Liên Hệ"
 weight = 5
 [params]
-address = "Hồ Chí Minh"
+address = "98 Nguyễn Công Trứ, Quận 1, TPHCM"
 author = "Themefisher"
 contact_form_action = "https://formspree.io/xqkdvnwk"
 description = "This is meta description"
