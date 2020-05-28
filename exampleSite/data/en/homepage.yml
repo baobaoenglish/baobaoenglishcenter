@@ -3,14 +3,6 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: IELTS 5.0+ Cấp Tốc Sau 24 Buổi
-    content: Khóa học dành cho "người mất gốc" vẫn đảm bảo đầu ra IELTS 5.0+
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Liên Hệ
-      link: https://forms.gle/zV1MghARnSigg7YK8
   - title: Toeic 500+ Cấp Tốc Sau 12 Buổi
     content: Khóa Toeic 500+ cấp tốc sau 12 buổi . Cam kết 500+ sau 12 buổi bằng văn
       bảng. Học lại miễn phí 100% nếu không đạt mục tiêu
@@ -20,6 +12,14 @@ slider:
       enable: true
       label: Liên Hệ
       link: https://forms.gle/rHrJ8LHb28Amvh3E7
+  - title: IELTS 5.0+ Cấp Tốc Sau 24 Buổi
+    content: Khóa học dành cho "người mất gốc" vẫn đảm bảo đầu ra IELTS 5.0+
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Liên Hệ
+      link: https://forms.gle/zV1MghARnSigg7YK8
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
